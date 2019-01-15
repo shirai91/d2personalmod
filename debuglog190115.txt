@@ -1,0 +1,979 @@
+---------------------------------------------------------------
+DESKTOP-UHBNIJN Realm startup at 2019-01-15 05:24:23.796
+---------------------------------------------------------------
+05:24:23.796  ------------------------------------------------------
+05:24:23.796  2019-01-15 05:24:23
+05:24:23.796  Diablo II running under Windows XP (Version 5.010)
+05:24:23.796  Vendor:  Intel
+05:24:23.796  Version: Pentium III (no brand) (Type 0, Family 6, Model E, Stepping 9, Brand 0)
+05:24:23.802  Speed: Approx. 3408 MHz
+05:24:23.802  Total Physical Memory: 1024.00MB
+05:24:23.802  Application Path: C:\Diablo II
+05:24:23.808  Local IP: 192.168.1.63
+05:24:23.808  Computer name: DESKTOP-UHBNIJN
+05:24:23.808  ------------------------------------------------------
+05:24:23.808  
+05:24:23.809  imagehlp.dll loaded for better stack crawls.
+05:24:25.439  BaseMod Installing Patches
+05:24:25.439  BaseMod.dll Loaded Successfully
+05:24:26.956  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+05:24:26.964  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+05:25:37.476  BaseMod.dll UnLoaded
+---------------------------------------------------------------
+DESKTOP-UHBNIJN Realm startup at 2019-01-15 05:26:06.946
+---------------------------------------------------------------
+05:26:06.946  ------------------------------------------------------
+05:26:06.946  2019-01-15 05:26:06
+05:26:06.946  Diablo II running under Windows XP (Version 5.010)
+05:26:06.946  Vendor:  Intel
+05:26:06.946  Version: Pentium III (no brand) (Type 0, Family 6, Model E, Stepping 9, Brand 0)
+05:26:06.959  Speed: Approx. 3408 MHz
+05:26:06.959  Total Physical Memory: 1024.00MB
+05:26:06.959  Application Path: C:\Diablo II
+05:26:06.966  Local IP: 192.168.1.63
+05:26:06.966  Computer name: DESKTOP-UHBNIJN
+05:26:06.966  ------------------------------------------------------
+05:26:06.966  
+05:26:06.967  imagehlp.dll loaded for better stack crawls.
+05:26:07.567  BaseMod Installing Patches
+05:26:07.567  BaseMod.dll Loaded Successfully
+05:26:08.762  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+05:26:08.769  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+05:26:12.801  Error opening file: DATA\GLOBAL\TILES\Act1\Graveyard\graveyrd_gt.dt1
+05:26:12.801  Error opening file: DATA\GLOBAL\TILES\Act1\Graveyard\graveyrd_gt.dt1
+05:26:12.801  
+05:26:12.801  
+05:26:12.801  ------------------------------------------------------
+05:26:12.801  PROGRAM:       Diablo II D2SE Core 1.13c
+05:26:12.801  COMPUTER NAME: DESKTOP-UHBNIJN
+05:26:12.801  USER NAME:     phamm
+05:26:12.801  TIME:          2019-01-15 05:26:12.801
+05:26:12.801  
+05:26:12.801  --------  FILE:     LINE: 135  --------
+
+Halt
+Location : , line #135
+Expression : Unrecoverable internal error 6fe18f45
+05:26:14.287  --------------------------------------
+05:26:14.287  Thread 8168 ***
+05:26:14.287  ----------
+05:26:14.287  User defined symbols path: C:\Diablo II;C:\Diablo II\MODS\CustomGame;C:\Windows
+05:26:14.289  Enumerate modules...
+05:26:14.290  
+Enumerate modules...
+05:26:14.296      Base:00400000h  Size:  5D000h  Name:D2SE.exe         Path:C:\Diablo II\D2SE.exe
+05:26:14.296      Base:052D0000h  Size:   D000h  Name:D2Net.dll        Path:C:\Diablo II\D2SE\CORES\1.13c\D2Net.dll
+05:26:14.296      Base:05310000h  Size:  14000h  Name:D2Lang.dll       Path:C:\Diablo II\D2SE\CORES\1.13c\D2Lang.dll
+05:26:14.296      Base:05690000h  Size: 122000h  Name:D2Game.dll       Path:C:\Diablo II\MODS\CustomGame\D2Game.dll
+05:26:14.296      Base:07AC0000h  Size:  1A000h  Name:SmackW32.dll     Path:C:\Diablo II\SmackW32.dll
+05:26:14.296      Base:07D70000h  Size:  27000h  Name:glide3x.dll      Path:C:\Diablo II\glide3x.dll
+05:26:14.296      Base:07EE0000h  Size:  40000h  Name:plugy.dll        Path:C:\Diablo II\MODS\CustomGame\plugy.dll
+05:26:14.296      Base:07F20000h  Size:  11000h  Name:Game.exe         Path:C:\Diablo II\Game.exe
+05:26:14.296      Base:07F50000h  Size:  35000h  Name:BaseMod.dll      Path:C:\Diablo II\MODS\CustomGame\BaseMod.dll
+05:26:14.296      Base:09C20000h  Size: 22F000h  Name:nvspcap.dll      Path:C:\Windows\system32\nvspcap.dll
+05:26:14.296      Base:10000000h  Size:  41000h  Name:binkw32.dll      Path:C:\Diablo II\binkw32.dll
+05:26:14.296      Base:18820000h  Size:  EB000h  Name:Windows.UI.dll   Path:C:\Windows\System32\Windows.UI.dll
+05:26:14.296      Base:60000000h  Size:  2E000h  Name:ijl11.dll        Path:C:\Diablo II\ijl11.dll
+05:26:14.296      Base:66680000h  Size:   3000h  Name:sfc.dll          Path:C:\Windows\SYSTEM32\sfc.dll
+05:26:14.296      Base:6CF20000h  Size:1CAC000h  Name:nvoglv32.dll     Path:C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_e7b3660b4830c245\nvoglv32.dll
+05:26:14.296      Base:6F850000h  Size:  1A000h  Name:D2Glide.dll      Path:C:\Diablo II\D2SE\CORES\1.13c\D2Glide.dll
+05:26:14.296      Base:6F870000h  Size:   E000h  Name:D2Gdi.dll        Path:C:\Diablo II\D2SE\CORES\1.13c\D2Gdi.dll
+05:26:14.296      Base:6F880000h  Size:  36000h  Name:D2Direct3D.dll   Path:C:\Diablo II\D2SE\CORES\1.13c\D2Direct3D.dll
+05:26:14.296      Base:6F8C0000h  Size:  13000h  Name:D2DDraw.dll      Path:C:\Diablo II\D2SE\CORES\1.13c\D2DDraw.dll
+05:26:14.296      Base:6F8E0000h  Size:  CF000h  Name:D2Win.dll        Path:C:\Diablo II\MODS\CustomGame\D2Win.dll
+05:26:14.296      Base:6F9B0000h  Size:  19000h  Name:D2Sound.dll      Path:C:\Diablo II\D2SE\CORES\1.13c\D2Sound.dll
+05:26:14.296      Base:6F9D0000h  Size:  3F000h  Name:D2Multi.dll      Path:C:\Diablo II\D2SE\CORES\1.13c\D2Multi.dll
+05:26:14.296      Base:6FA20000h  Size:  14000h  Name:D2MCPClient.dll  Path:C:\Diablo II\D2SE\CORES\1.13c\D2MCPClient.dll
+05:26:14.296      Base:6FA40000h  Size:  2D000h  Name:D2Launch.dll     Path:C:\Diablo II\D2SE\CORES\1.13c\D2Launch.dll
+05:26:14.296      Base:6FA80000h  Size:  21000h  Name:D2gfx.dll        Path:C:\Diablo II\D2SE\CORES\1.13c\D2gfx.dll
+05:26:14.296      Base:6FAB0000h  Size: 135000h  Name:D2Client.dll     Path:C:\Diablo II\MODS\CustomGame\D2Client.dll
+05:26:14.296      Base:6FBF0000h  Size:  60000h  Name:Storm.dll        Path:C:\Diablo II\D2SE\CORES\1.13c\Storm.dll
+05:26:14.296      Base:6FD50000h  Size:  A9000h  Name:D2Common.dll     Path:C:\Diablo II\MODS\CustomGame\D2Common.dll
+05:26:14.296      Base:6FE10000h  Size: 108000h  Name:D2CMP.dll        Path:C:\Diablo II\D2SE\CORES\1.13c\D2CMP.dll
+05:26:14.296      Base:6FF20000h  Size:  24000h  Name:Bnclient.dll     Path:C:\Diablo II\D2SE\CORES\1.13c\Bnclient.dll
+05:26:14.296      Base:6FF50000h  Size:  5C000h  Name:Fog.dll          Path:C:\Diablo II\D2SE\CORES\1.13c\Fog.dll
+05:26:14.296      Base:701D0000h  Size: 10F000h  Name:AUDIOSES.DLL     Path:C:\Windows\SYSTEM32\AUDIOSES.DLL
+05:26:14.296      Base:702E0000h  Size:  DB000h  Name:wintypes.dll     Path:C:\Windows\SYSTEM32\wintypes.dll
+05:26:14.296      Base:703C0000h  Size: 508000h  Name:d2d1.dll         Path:C:\Windows\System32\d2d1.dll
+05:26:14.296      Base:708D0000h  Size: 26A000h  Name:CoreUIComponent  Path:C:\Windows\System32\CoreUIComponents.dll
+05:26:14.296      Base:70B40000h  Size: 1A3000h  Name:twinapi.appcore  Path:C:\Windows\System32\twinapi.appcore.dll
+05:26:14.296      Base:70CF0000h  Size:  8F000h  Name:CoreMessaging.d  Path:C:\Windows\System32\CoreMessaging.dll
+05:26:14.296      Base:70D80000h  Size:  91000h  Name:InputHost.dll    Path:C:\Windows\System32\InputHost.dll
+05:26:14.296      Base:70E70000h  Size:  8E000h  Name:COMCTL32.dll     Path:C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.17763.253_none_5891474378aab1c9\COMCTL32.dll
+05:26:14.296      Base:714F0000h  Size:  1E000h  Name:RMCLIENT.dll     Path:C:\Windows\System32\RMCLIENT.dll
+05:26:14.296      Base:71510000h  Size: 229000h  Name:d3d11.dll        Path:C:\Windows\System32\d3d11.dll
+05:26:14.296      Base:71740000h  Size:  A4000h  Name:dxgi.dll         Path:C:\Windows\SYSTEM32\dxgi.dll
+05:26:14.296      Base:71810000h  Size:  26000h  Name:dwmapi.dll       Path:C:\Windows\SYSTEM32\dwmapi.dll
+05:26:14.296      Base:719B0000h  Size:  23000h  Name:DEVOBJ.dll       Path:C:\Windows\SYSTEM32\DEVOBJ.dll
+05:26:14.296      Base:72E50000h  Size:  23000h  Name:WINMMBASE.dll    Path:C:\Windows\SYSTEM32\WINMMBASE.dll
+05:26:14.296      Base:72E80000h  Size:  24000h  Name:WINMM.dll        Path:C:\Windows\SYSTEM32\WINMM.dll
+05:26:14.296      Base:72FE0000h  Size:  5E000h  Name:MMDevApi.dll     Path:C:\Windows\System32\MMDevApi.dll
+05:26:14.296      Base:73090000h  Size: 17E000h  Name:PROPSYS.dll      Path:C:\Windows\SYSTEM32\PROPSYS.dll
+05:26:14.296      Base:73210000h  Size:  6B000h  Name:WINSPOOL.DRV     Path:C:\Windows\SYSTEM32\WINSPOOL.DRV
+05:26:14.296      Base:73280000h  Size:  18000h  Name:MPR.dll          Path:C:\Windows\SYSTEM32\MPR.dll
+05:26:14.296      Base:732A0000h  Size: 287000h  Name:AcLayers.DLL     Path:C:\Windows\SYSTEM32\AcLayers.DLL
+05:26:14.296      Base:73530000h  Size:  9C000h  Name:apphelp.dll      Path:C:\Windows\SYSTEM32\apphelp.dll
+05:26:14.296      Base:735D0000h  Size: 18F000h  Name:dbghelp.dll      Path:C:\Windows\SYSTEM32\dbghelp.dll
+05:26:14.296      Base:73760000h  Size:   E000h  Name:resourcepolicyc  Path:C:\Windows\SYSTEM32\resourcepolicyclient.dll
+05:26:14.296      Base:73770000h  Size:  43000h  Name:WINSTA.dll       Path:C:\Windows\SYSTEM32\WINSTA.dll
+05:26:14.296      Base:737C0000h  Size:  3F000h  Name:GLU32.dll        Path:C:\Windows\SYSTEM32\GLU32.dll
+05:26:14.296      Base:73800000h  Size:  D9000h  Name:OPENGL32.DLL     Path:C:\Windows\SYSTEM32\OPENGL32.DLL
+05:26:14.296      Base:738E0000h  Size:  E9000h  Name:DDRAW.dll        Path:C:\Windows\SYSTEM32\DDRAW.dll
+05:26:14.296      Base:739D0000h  Size:  80000h  Name:DSOUND.dll       Path:C:\Windows\SYSTEM32\DSOUND.dll
+05:26:14.296      Base:73A50000h  Size:  86000h  Name:TextInputFramew  Path:C:\Windows\System32\TextInputFramework.dll
+05:26:14.296      Base:73AE0000h  Size: 20F000h  Name:comctl32.DLL     Path:C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17763.253_none_4d5f6f651b9e27d4\comctl32.DLL
+05:26:14.296      Base:73CF0000h  Size: 22D000h  Name:iertutil.dll     Path:C:\Windows\SYSTEM32\iertutil.dll
+05:26:14.296      Base:73F20000h  Size: 24E000h  Name:AcGenral.DLL     Path:C:\Windows\SYSTEM32\AcGenral.DLL
+05:26:14.296      Base:74170000h  Size:   8000h  Name:rasadhlp.dll     Path:C:\Windows\System32\rasadhlp.dll
+05:26:14.296      Base:74180000h  Size:   F000h  Name:sfc_os.DLL       Path:C:\Windows\SYSTEM32\sfc_os.DLL
+05:26:14.296      Base:74190000h  Size:  7B000h  Name:UxTheme.dll      Path:C:\Windows\SYSTEM32\UxTheme.dll
+05:26:14.296      Base:742F0000h  Size:   8000h  Name:AVRT.dll         Path:C:\Windows\SYSTEM32\AVRT.dll
+05:26:14.296      Base:74300000h  Size:   7000h  Name:DCIMAN32.dll     Path:C:\Windows\SYSTEM32\DCIMAN32.dll
+05:26:14.296      Base:74310000h  Size:   8000h  Name:WSOCK32.dll      Path:C:\Windows\SYSTEM32\WSOCK32.dll
+05:26:14.296      Base:74320000h  Size:   E000h  Name:SortServer2003C  Path:C:\Windows\SYSTEM32\SortServer2003Compat.dll
+05:26:14.296      Base:74330000h  Size: 1BC000h  Name:urlmon.dll       Path:C:\Windows\SYSTEM32\urlmon.dll
+05:26:14.296      Base:745C0000h  Size:  19000h  Name:MSACM32.dll      Path:C:\Windows\SYSTEM32\MSACM32.dll
+05:26:14.296      Base:745F0000h  Size:  23000h  Name:USERENV.dll      Path:C:\Windows\SYSTEM32\USERENV.dll
+05:26:14.296      Base:74620000h  Size:  15000h  Name:samcli.dll       Path:C:\Windows\SYSTEM32\samcli.dll
+05:26:14.296      Base:74750000h  Size:   F000h  Name:WTSAPI32.dll     Path:C:\Windows\SYSTEM32\WTSAPI32.dll
+05:26:14.296      Base:74840000h  Size:  33000h  Name:IPHLPAPI.DLL     Path:C:\Windows\SYSTEM32\IPHLPAPI.DLL
+05:26:14.296      Base:74BB0000h  Size:  29000h  Name:ntmarta.dll      Path:C:\Windows\SYSTEM32\ntmarta.dll
+05:26:14.296      Base:74BE0000h  Size:   8000h  Name:VERSION.dll      Path:C:\Windows\SYSTEM32\VERSION.dll
+05:26:14.296      Base:74BF0000h  Size:   A000h  Name:CRYPTBASE.dll    Path:C:\Windows\System32\CRYPTBASE.dll
+05:26:14.296      Base:74C00000h  Size:  20000h  Name:SspiCli.dll      Path:C:\Windows\System32\SspiCli.dll
+05:26:14.296      Base:74C20000h  Size:  80000h  Name:msvcp_win.dll    Path:C:\Windows\System32\msvcp_win.dll
+05:26:14.296      Base:74CA0000h  Size:  45000h  Name:WINTRUST.dll     Path:C:\Windows\System32\WINTRUST.dll
+05:26:14.296      Base:74CF0000h  Size:  44000h  Name:shlwapi.dll      Path:C:\Windows\System32\shlwapi.dll
+05:26:14.296      Base:74D40000h  Size:  FC000h  Name:ole32.dll        Path:C:\Windows\System32\ole32.dll
+05:26:14.296      Base:74E40000h  Size:  17000h  Name:win32u.dll       Path:C:\Windows\System32\win32u.dll
+05:26:14.296      Base:74E60000h  Size: 167000h  Name:gdi32full.dll    Path:C:\Windows\System32\gdi32full.dll
+05:26:14.296      Base:74FD0000h  Size: 123000h  Name:ucrtbase.dll     Path:C:\Windows\System32\ucrtbase.dll
+05:26:14.296      Base:75100000h  Size:  89000h  Name:shcore.dll       Path:C:\Windows\System32\shcore.dll
+05:26:14.296      Base:75190000h  Size:  19000h  Name:bcrypt.dll       Path:C:\Windows\System32\bcrypt.dll
+05:26:14.296      Base:751B0000h  Size:  12000h  Name:cryptsp.dll      Path:C:\Windows\System32\cryptsp.dll
+05:26:14.296      Base:751D0000h  Size: 278000h  Name:combase.dll      Path:C:\Windows\System32\combase.dll
+05:26:14.296      Base:75450000h  Size:  1C000h  Name:profapi.dll      Path:C:\Windows\System32\profapi.dll
+05:26:14.296      Base:75470000h  Size:  7E000h  Name:advapi32.dll     Path:C:\Windows\System32\advapi32.dll
+05:26:14.296      Base:754F0000h  Size:   6000h  Name:psapi.dll        Path:C:\Windows\System32\psapi.dll
+05:26:14.296      Base:75500000h  Size:  23000h  Name:GDI32.dll        Path:C:\Windows\System32\GDI32.dll
+05:26:14.296      Base:75550000h  Size: 13D000h  Name:MSCTF.dll        Path:C:\Windows\System32\MSCTF.dll
+05:26:14.296      Base:75690000h  Size:  BF000h  Name:RPCRT4.dll       Path:C:\Windows\System32\RPCRT4.dll
+05:26:14.296      Base:75750000h  Size: 44B000h  Name:SETUPAPI.dll     Path:C:\Windows\System32\SETUPAPI.dll
+05:26:14.296      Base:75BA0000h  Size:   F000h  Name:kernel.appcore.  Path:C:\Windows\System32\kernel.appcore.dll
+05:26:14.296      Base:75BB0000h  Size: 5FB000h  Name:windows.storage  Path:C:\Windows\System32\windows.storage.dll
+05:26:14.296      Base:761B0000h  Size:  FA000h  Name:comdlg32.dll     Path:C:\Windows\System32\comdlg32.dll
+05:26:14.296      Base:762B0000h  Size:  C0000h  Name:msvcrt.dll       Path:C:\Windows\System32\msvcrt.dll
+05:26:14.296      Base:76370000h  Size:  25000h  Name:IMM32.DLL        Path:C:\Windows\System32\IMM32.DLL
+05:26:14.296      Base:76400000h  Size:  9B000h  Name:OLEAUT32.dll     Path:C:\Windows\System32\OLEAUT32.dll
+05:26:14.296      Base:76610000h  Size: 1F9000h  Name:KERNELBASE.dll   Path:C:\Windows\System32\KERNELBASE.dll
+05:26:14.296      Base:76810000h  Size:  5F000h  Name:WS2_32.dll       Path:C:\Windows\System32\WS2_32.dll
+05:26:14.296      Base:76900000h  Size: 199000h  Name:CRYPT32.dll      Path:C:\Windows\System32\CRYPT32.dll
+05:26:14.296      Base:76AB0000h  Size: 54D000h  Name:SHELL32.dll      Path:C:\Windows\System32\SHELL32.dll
+05:26:14.296      Base:77000000h  Size:  81000h  Name:clbcatq.dll      Path:C:\Windows\System32\clbcatq.dll
+05:26:14.296      Base:77090000h  Size:  79000h  Name:sechost.dll      Path:C:\Windows\System32\sechost.dll
+05:26:14.296      Base:77170000h  Size:  3B000h  Name:cfgmgr32.dll     Path:C:\Windows\System32\cfgmgr32.dll
+05:26:14.296      Base:771B0000h  Size:   7000h  Name:NSI.dll          Path:C:\Windows\System32\NSI.dll
+05:26:14.296      Base:771C0000h  Size:  E0000h  Name:KERNEL32.DLL     Path:C:\Windows\System32\KERNEL32.DLL
+05:26:14.296      Base:77300000h  Size:   E000h  Name:MSASN1.dll       Path:C:\Windows\System32\MSASN1.dll
+05:26:14.296      Base:77310000h  Size:  62000h  Name:bcryptPrimitive  Path:C:\Windows\System32\bcryptPrimitives.dll
+05:26:14.296      Base:77380000h  Size:  54000h  Name:powrprof.dll     Path:C:\Windows\System32\powrprof.dll
+05:26:14.296      Base:773E0000h  Size: 199000h  Name:USER32.dll       Path:C:\Windows\System32\USER32.dll
+05:26:14.296      Base:77590000h  Size: 19C000h  Name:ntdll.dll        Path:C:\Windows\SYSTEM32\ntdll.dll
+05:26:14.296  
+05:26:14.296  Load symbols...
+05:26:14.494  
+05:26:14.494  Annotated stack dump
+
+                     // EIP = 0x6FF60FC7 - Fog.dll - Ordinal10028+0097
+
+              0019F7C0: 00000000 00000000 307DDB07 D4F71900  ........0}Û.Ô÷..
+              0019F7D0: C0F71900 40F91900 2011F66F           À÷..@ù.. .öo
+
+                           // 0x6FF61120 - Fog.dll - Ordinal10024+0020
+
+              0019F7DC: C70FF66F                             Ç.öo
+
+                           // 0x6FF60FC7 - Fog.dll - Ordinal10028+0097
+
+              0019F7E0: EC68F76F                             ìh÷o
+
+                           // 0x6FF768EC - Fog.dll - gdwInvBitMasks+00D4
+
+              0019F7E4: 87000000 0C85F76F                    ......÷o
+
+                           // 0x6FF7850C - Fog.dll - gdwInvBitMasks+1CF4
+
+              0019F7EC: 458FE16F                             E.áo
+
+                           // 0x6FE18F45 - D2CMP.dll - unknown+1CF4
+
+              0019F7F0: 508FE16F                             P.áo
+
+                           // 0x6FE18F50 - D2CMP.dll - unknown+1CF4
+
+              0019F7F4: 0FD3E26F                             .Óâo
+
+                           // 0x6FE2D30F - D2CMP.dll - Ordinal10105+66EF
+
+              0019F7F8: 458FE16F                             E.áo
+
+                           // 0x6FE18F45 - D2CMP.dll - unknown+66EF
+
+              0019F7FC: 87000000 47616D65 5C444154 415C474C  ....Game\DATA\GL
+              0019F80C: 4F42414C 5C54494C 45535C41 6374315C  OBAL\TILES\Act1\
+              0019F81C: 47726176                             Grav
+
+                           // 0x76617247 - KERNELBASE.dll - unknown+66EF
+
+              0019F820: 65796172 645C6772 61766579 72645F67  eyard\graveyrd_g
+              0019F830: 742E6474 31000000 00000000 00000000  t.dt1...........
+              0019F840: 00000000 00000000 00000000 00000000  ................
+              0019F850: 00000000 00000000 00000000 00000000  ................
+              0019F860: 00000000 00000000 00000000 00000000  ................
+              0019F870: 00000000 00000000 00000000 00000000  ................
+              0019F880: 00000000 00000000 00000000 207DDB07  ............ }Û.
+              0019F890: B4AFF96F                             ´¯ùo
+
+                           // 0x6FF9AFB4 - Fog.dll - PERFORMANCE_ACCUMULATOR+18074
+
+              0019F894: 98424205 80424205 207DDB07 FFFF0300  .BB..BB. }Û.ÿÿ..
+              0019F8A4: 7EB7F66F                             ~·öo
+
+                           // 0x6FF6B77E - Fog.dll - Ordinal10142+08EE
+
+              0019F8A8: B4AFF96F                             ´¯ùo
+
+                           // 0x6FF9AFB4 - Fog.dll - PERFORMANCE_ACCUMULATOR+18074
+
+              0019F8AC: C0FDE26F                             Àýâo
+
+                           // 0x6FE2FDC0 - D2CMP.dll - Ordinal10105+91A0
+
+              0019F8B0: 01000000 80C2DC07 307DDB07 B4AFF96F  .....ÂÜ.0}Û.´¯ùo
+
+                           // 0x6FF9AFB4 - Fog.dll - PERFORMANCE_ACCUMULATOR+18074
+
+              0019F8C0: 98424205 80424205 0CF91900 9A87F600  .BB..BB..ù....ö.
+              0019F8D0: C4E81900 B4AFF96F                    Äè..´¯ùo
+
+                           // 0x6FF9AFB4 - Fog.dll - PERFORMANCE_ACCUMULATOR+18074
+
+              0019F8D8: 60FF1900 043EF56F                    `ÿ...>õo
+
+                           // 0x6FF53E04 - Fog.dll - unknown+18074
+
+              0019F8E0: E068F76F                             àh÷o
+
+                           // 0x6FF768E0 - Fog.dll - gdwInvBitMasks+00C8
+
+              0019F8E4: FFFFFFFF 40F91900 5091F66F           ÿÿÿÿ@ù..P.öo
+
+                           // 0x6FF69150 - Fog.dll - Ordinal10029+0050
+
+              0019F8F0: EC68F76F                             ìh÷o
+
+                           // 0x6FF768EC - Fog.dll - gdwInvBitMasks+00D4
+
+              0019F8F4: 01000000 01000000 A000E36F           ........ .ão
+
+                           // 0x6FE300A0 - D2CMP.dll - Ordinal10105+9480
+
+              0019F900: 0CF91900 B297E16F                    .ù..².áo
+
+                           // 0x6FE197B2 - D2CMP.dll - Ordinal10003+0092
+
+              0019F908: C197E16F                             Á.áo
+
+                           // 0x6FE197C1 - D2CMP.dll - Ordinal10003+00A1
+
+              0019F90C: 307DDB07 1A000000 01141E77           0}Û........w
+
+                           // 0x771E1401 - KERNEL32.DLL - LCMapStringW+0001
+
+              0019F918: 02000000 BC6C9750 00000000 00000000  ....¼l.P........
+              0019F928: BA1AAF6F                             º.¯o
+
+                           // 0x6FAF1ABA - D2Client.dll - Ordinal10003+311FA
+
+              0019F92C: 80F91900 40F91900 01000000 03000000  .ù..@ù..........
+              0019F93C: 00141E77                             ...w
+
+                           // 0x771E1400 - KERNEL32.DLL - LCMapStringW+0000
+
+              0019F940: 44415441 5C474C4F 42414C5C 54494C45  DATA\GLOBAL\TILE
+              0019F950: 535C4163 74315C47 72617665 79617264  S\Act1\Graveyard
+              0019F960: 5C677261 76657972 645F6774 2E647431  \graveyrd_gt.dt1
+              0019F970: 00D4F007                             .Ôð.
+
+                           // 0x07F0D400 - plugy.dll - Release+26780
+
+              0019F974: 00000000 99FA1900 A53FAF6F           .....ú..¥?¯o
+
+                           // 0x6FAF3FA5 - D2Client.dll - Ordinal10003+336E5
+
+              0019F980: 00F68F0A 03000000 84DEB86F           .ö.......Þ¸o
+
+                           // 0x6FB8DE84 - D2Client.dll - Ordinal10001+7B064
+
+              0019F98C: EAAAEF07                             êªï.
+
+                           // 0x07EFAAEA - plugy.dll - Release+13E6A
+
+              0019F990: E4FA1900 9D000000 9D192400 00000000  äú........$.....
+              0019F9A0: 00000000 00000000 00000000 00000000  ................
+              0019F9B0: 00000000 00000000 00000000 00000000  ................
+              0019F9C0: 00000000 00000000 00000000 00000000  ................
+              0019F9D0: 00000000 00000000 00000000 00000000  ................
+              0019F9E0: 00000000 00000000 00000000 00000000  ................
+              0019F9F0: 00000000 00000000 00000000 00000000  ................
+              0019FA00: 00000000 00000000 00000000 00000000  ................
+              0019FA10: 00000000 00000000 00000000 00000000  ................
+              0019FA20: 00000000 00000000 00000000 00000000  ................
+              0019FA30: 00000000 00000000 00000000 00000000  ................
+              0019FA40: 00000000 00000000 00000000 00000000  ................
+              0019FA50: 48414205 1A000000 98AFF96F           HAB......¯ùo
+
+                           // 0x6FF9AF98 - Fog.dll - PERFORMANCE_ACCUMULATOR+18058
+
+              0019FA5C: 0B8B7076                             ..pv
+
+                           // 0x76708B0B - KERNELBASE.dll - SleepEx+004B
+
+              0019FA60: 48414205 58000000 D4B0F96F           HAB.X...Ô°ùo
+
+                           // 0x6FF9B0D4 - Fog.dll - PERFORMANCE_ACCUMULATOR+18194
+
+              0019FA6C: 48414205 E4FC1900 58000000 94AFF96F  HAB.äü..X....¯ùo
+
+                           // 0x6FF9AF94 - Fog.dll - PERFORMANCE_ACCUMULATOR+18054
+
+              0019FA7C: 73B1F66F                             s±öo
+
+                           // 0x6FF6B173 - Fog.dll - Ordinal10142+02E3
+
+              0019FA80: D4B0F96F                             Ô°ùo
+
+                           // 0x6FF9B0D4 - Fog.dll - PERFORMANCE_ACCUMULATOR+18194
+
+              0019FA84: E4FC1900 0058E507 0C000000 66DBB56F  äü...Xå.....fÛµo
+
+                           // 0x6FB5DB66 - D2Client.dll - Ordinal10001+4AD46
+
+              0019FA94: BC6C9750 55A1A816 E4FA1900 03141E77  ¼l.PU¡¨.äú.....w
+
+                           // 0x771E1403 - KERNEL32.DLL - LCMapStringW+0003
+
+              0019FAA4: B5CFB56F                             µÏµo
+
+                           // 0x6FB5CFB5 - D2Client.dll - Ordinal10001+4A195
+
+              0019FAA8: 00000000 A0141E77                    .... ..w
+
+                           // 0x771E14A0 - KERNEL32.DLL - Sleep+0000
+
+              0019FAB0: B3030000 0C000000 0C000000 0C000000  ³...............
+              0019FAC0: 0C000000 00B42D05                    .....´-.
+
+                           // 0x052DB400 - D2Net.dll - Ordinal10024+3DB0
+
+              0019FAC8: FCB32D05                             ü³-.
+
+                           // 0x052DB3FC - D2Net.dll - Ordinal10024+3DAC
+
+              0019FACC: E4FA1900 A139AF6F                    äú..¡9¯o
+
+                           // 0x6FAF39A1 - D2Client.dll - Ordinal10003+330E1
+
+              0019FAD4: AD39AF6F                             ­9¯o
+
+                           // 0x6FAF39AD - D2Client.dll - Ordinal10003+330ED
+
+              0019FAD8: 0C000000 20000000 00000000 0300BC6C  .... .........¼l
+              0019FAE8: 97500100 55A1A816 00000000 00000000  .P..U¡¨.........
+              0019FAF8: 00000000 00000000 00000000 00000000  ................
+              0019FB08: 00000000 00000000 00000000 00000000  ................
+              0019FB18: 00000000 00000000 00000000 00000000  ................
+              0019FB28: 00000000 00000000 00000000 00000000  ................
+              0019FB38: 00000000 00000000 00000000 00000000  ................
+              0019FB48: 00000000 00000000 00000000 00000000  ................
+              0019FB58: 00000000 00000000 00000000 00000000  ................
+              0019FB68: 00000000 00000000 00000000 00000000  ................
+              0019FB78: 00000000 00000000 00000000 00000000  ................
+              0019FB88: 00000000 00000000 00000000 00000000  ................
+              0019FB98: 00000000 00000000 00000000 00000000  ................
+              0019FBA8: 00000000 00000000 00000000 00000000  ................
+              0019FBB8: 00000000 00000000 00000000 00000000  ................
+              0019FBC8: 00000000 00000000 00000000 00000000  ................
+              0019FBD8: 00000000 00000000 00000000 00000000  ................
+              0019FBE8: 00000000 00000000 00000000 00000000  ................
+              0019FBF8: 00000000 00000000 00000000 00000000  ................
+              0019FC08: 00000000 00000000 00000000 00000000  ................
+              0019FC18: 00000000 00000000 00000000 00000000  ................
+              0019FC28: 00000000 00000000 00000000 00000000  ................
+              0019FC38: 00000000 00000000 00000000 00000000  ................
+              0019FC48: 00000000 00000000 00000000 00000000  ................
+              0019FC58: 00000000 00000000 00000000 00000000  ................
+              0019FC68: 00000000 00000000 00000000 00000000  ................
+              0019FC78: 00000000 00000000 00000000 00000000  ................
+              0019FC88: 00000000 00000000 00000000 00000000  ................
+              0019FC98: 00000000 00000000 00000000 00000000  ................
+              0019FCA8: 00000000 00000000 00000000 00000000  ................
+              0019FCB8: 00000000 00000000 00000000 00000000  ................
+              0019FCC8: 00000000 00000000 00000000 00000000  ................
+              0019FCD8: 00000000 00000000 00000000 2F4DAF6F  ............/M¯o
+
+                           // 0x6FAF4D2F - D2Client.dll - Ordinal10003+3446F
+
+              0019FCE8: D48F0000 01000000 30804077           Ô.......0.@w
+
+                           // 0x77408030 - USER32.dll - GetMessageA+0000
+
+              0019FCF4: 504BAF6F                             PK¯o
+
+                           // 0x6FAF4B50 - D2Client.dll - Ordinal10003+34290
+
+              0019FCF8: 00000000 00000000 77CBAE6F           ........wË®o
+
+                           // 0x6FAECB77 - D2Client.dll - Ordinal10003+2C2B7
+
+              0019FD04: D48F0000 78000000 00000000 9E053B00  Ô...x.........;.
+              0019FD14: CA090C00 00020000 00000000 D700A000  Ê...........×. .
+              0019FD24: 9E439D1A 17020000 E7000000 4D51AF6F  .C......ç...MQ¯o
+
+                           // 0x6FAF514D - D2Client.dll - Ordinal10003+3488D
+
+              0019FD34: E8AF4100                             è¯A.
+
+                           // 0x0041AFE8 - D2SE.exe - unknown+3488D
+
+              0019FD38: 0000AB6F                             ..«o
+
+                           // 0x6FAB0000 - D2Client.dll - unknown+3488D
+
+              0019FD3C: B4FE1900 F4AF4100                    ´þ..ô¯A.
+
+                           // 0x0041AFF4 - D2SE.exe - unknown+3488D
+
+              0019FD44: 10000000 081C7A05                    ......z.
+
+                           // 0x057A1C08 - D2Game.dll - Ordinal10010+363A8
+
+              0019FD4C: 0000A00F B4FE1900 17281E77           .. .´þ...(.w
+
+                           // 0x771E2817 - KERNEL32.DLL - GetTickCount+0007
+
+              0019FD58: 00000000 FBFEB56F                    ....ûþµo
+
+                           // 0x6FB5FEFB - D2Client.dll - Ordinal10001+4D0DB
+
+              0019FD60: F4AF4100                             ô¯A.
+
+                           // 0x0041AFF4 - D2SE.exe - unknown+4D0DB
+
+              0019FD64: 370DAC6F                             7.¬o
+
+                           // 0x6FAC0D37 - D2Client.dll - Ordinal10003+0477
+
+              0019FD68: C04DA66F                             ÀM¦o
+
+                           // 0x6FA64DC0 - D2Launch.dll - QueryInterface+1B260
+
+              0019FD6C: 454E4700 AEBEAF6F                    ENG.®¾¯o
+
+                           // 0x6FAFBEAE - D2Client.dll - QueryInterface+003E
+
+              0019FD74: 04B24100                             .²A.
+
+                           // 0x0041B204 - D2SE.exe - unknown+003E
+
+              0019FD78: 04DC4000                             .Ü@.
+
+                           // 0x0040DC04 - D2SE.exe - unknown+003E
+
+              0019FD7C: 1C041D00 54363502 FC020000 74BA9E6F  ....T65.ü...tº.o
+
+                           // 0x6F9EBA74 - D2Multi.dll - QueryInterface+13BA4
+
+              0019FD8C: 2823BA6F                             (#ºo
+
+                           // 0x6FBA2328 - D2Client.dll - Ordinal10001+8F508
+
+              0019FD90: 00004000                             ..@.
+
+                           // 0x00400000 - D2SE.exe - unknown+8F508
+
+              0019FD94: 00000000 04000000 10B44100           .........´A.
+
+                           // 0x0041B410 - D2SE.exe - unknown+8F508
+
+              0019FDA0: E8AF4100                             è¯A.
+
+                           // 0x0041AFE8 - D2SE.exe - unknown+8F508
+
+              0019FDA4: 41B34100                             A³A.
+
+                           // 0x0041B341 - D2SE.exe - unknown+8F508
+
+              0019FDA8: EAB14100                             ê±A.
+
+                           // 0x0041B1EA - D2SE.exe - unknown+8F508
+
+              0019FDAC: F2AF4100                             ò¯A.
+
+                           // 0x0041AFF2 - D2SE.exe - unknown+8F508
+
+              0019FDB0: E9B14100                             é±A.
+
+                           // 0x0041B1E9 - D2SE.exe - unknown+8F508
+
+              0019FDB4: E8B34100                             è³A.
+
+                           // 0x0041B3E8 - D2SE.exe - unknown+8F508
+
+              0019FDB8: F8AF4100                             ø¯A.
+
+                           // 0x0041AFF8 - D2SE.exe - unknown+8F508
+
+              0019FDBC: E8B14100                             è±A.
+
+                           // 0x0041B1E8 - D2SE.exe - unknown+8F508
+
+              0019FDC0: F9B14100                             ù±A.
+
+                           // 0x0041B1F9 - D2SE.exe - unknown+8F508
+
+              0019FDC4: ECAF4100                             ì¯A.
+
+                           // 0x0041AFEC - D2SE.exe - unknown+8F508
+
+              0019FDC8: F1AF4100                             ñ¯A.
+
+                           // 0x0041AFF1 - D2SE.exe - unknown+8F508
+
+              0019FDCC: EEAF4100                             î¯A.
+
+                           // 0x0041AFEE - D2SE.exe - unknown+8F508
+
+              0019FDD0: F5B14100                             õ±A.
+
+                           // 0x0041B1F5 - D2SE.exe - unknown+8F508
+
+              0019FDD4: 00000000 00000000 00000000 00000000  ................
+              0019FDE4: 00000000 00000000 00000000 00000000  ................
+              0019FDF4: 00000000 00000000 00000000 00000000  ................
+              0019FE04: 00000000 00000000 00000000 00000000  ................
+              0019FE14: 00000000 00000000 00000000 00000000  ................
+              0019FE24: 00000000 00000000 00000000 00000000  ................
+              0019FE34: 00000000 00000000 00000000 00000000  ................
+              0019FE44: 00000000 00000000 4D4F4453 5C437573  ........MODS\Cus
+
+                           // 0x7375435C - dbghelp.dll - MiniDumpWriteDump+2A518
+
+              0019FE54: 746F6D47 616D655C 64656275           tomGame\debu
+
+                           // 0x75626564 - MSCTF.dll - TF_SetShowFloatingStatus+35924
+
+              0019FE60: 676C6F67 00214100                    glog.!A.
+
+                           // 0x00412100 - D2SE.exe - unknown+35924
+
+              0019FE68: E49F4100                             ä.A.
+
+                           // 0x00419FE4 - D2SE.exe - unknown+35924
+
+              0019FE6C: 60FF1900 E2172C73                    `ÿ..â.,s
+
+                           // 0x732C17E2 - AcLayers.DLL - unknown+35924
+
+              0019FE74: 00000000 B4692D73                    ....´i-s
+
+                           // 0x732D69B4 - AcLayers.DLL - unknown+35924
+
+05:26:14.531  
+05:26:14.531  Stack Crawl:
+05:26:14.531  Address  Frame    Module       Return    Stack
+05:26:14.531  6ff60fc7 0019f7d4 Fog.dll      Fog!Ordinal10028+0097 [omap] 
+05:26:14.531  6ff61120 0019f978 Fog.dll      Fog!Ordinal10024+0020 [omap] 
+05:26:14.532  6faf3fa5 0019f988 D2Client.dll D2Client!Ordinal10003+336E5 [omap] 
+05:26:14.532  07efaaea 0019fa58 plugy.dll    plugy!Release+13E6A [omap] 
+05:26:14.532  76708b0b 0019fa78 KERNELBASE.dll KERNELBASE!SleepEx+004B [omap] 
+05:26:14.532  6ff6b173 0019fa8c Fog.dll      Fog!Ordinal10142+02E3 [omap] 
+05:26:14.533  6fb5db66 0019faa0 D2Client.dll D2Client!Ordinal10001+4AD46 [omap] 
+05:26:14.533  6fb5cfb5 0019facc D2Client.dll D2Client!Ordinal10001+4A195 [omap] 
+05:26:14.533  6faf39a1 0019fae4 D2Client.dll D2Client!Ordinal10003+330E1 [omap] 
+05:26:14.533  00015097 0019fae8 unknown      unknown+0000 [omap] 
+05:26:14.533  16a8a155 0019faec unknown      unknown+0000 [omap] 
+05:26:14.533  Stack walk error: 0
+05:26:14.533  11 frames dumped
+05:26:14.585  Stack bytes:
+05:26:14.585  0019FAF0: 00000000 00000000 00000000 00000000  ................
+              0019FB00: 00000000 00000000 00000000 00000000  ................
+              0019FB10: 00000000 00000000 00000000 00000000  ................
+              0019FB20: 00000000 00000000 00000000 00000000  ................
+              0019FB30: 00000000 00000000 00000000 00000000  ................
+              0019FB40: 00000000 00000000 00000000 00000000  ................
+              0019FB50: 00000000 00000000 00000000 00000000  ................
+              0019FB60: 00000000 00000000 00000000 00000000  ................
+              0019FB70: 00000000 00000000 00000000 00000000  ................
+              0019FB80: 00000000 00000000 00000000 00000000  ................
+              0019FB90: 00000000 00000000 00000000 00000000  ................
+              0019FBA0: 00000000 00000000 00000000 00000000  ................
+              0019FBB0: 00000000 00000000 00000000 00000000  ................
+              0019FBC0: 00000000 00000000 00000000 00000000  ................
+              0019FBD0: 00000000 00000000 00000000 00000000  ................
+              0019FBE0: 00000000 00000000 00000000 00000000  ................
+              0019FBF0: 00000000 00000000 00000000 00000000  ................
+              0019FC00: 00000000 00000000 00000000 00000000  ................
+              0019FC10: 00000000 00000000 00000000 00000000  ................
+              0019FC20: 00000000 00000000 00000000 00000000  ................
+              0019FC30: 00000000 00000000 00000000 00000000  ................
+              0019FC40: 00000000 00000000 00000000 00000000  ................
+              0019FC50: 00000000 00000000 00000000 00000000  ................
+              0019FC60: 00000000 00000000 00000000 00000000  ................
+              0019FC70: 00000000 00000000 00000000 00000000  ................
+              0019FC80: 00000000 00000000 00000000 00000000  ................
+              0019FC90: 00000000 00000000 00000000 00000000  ................
+              0019FCA0: 00000000 00000000 00000000 00000000  ................
+              0019FCB0: 00000000 00000000 00000000 00000000  ................
+              0019FCC0: 00000000 00000000 00000000 00000000  ................
+              0019FCD0: 00000000 00000000 00000000 00000000  ................
+              0019FCE0: 00000000 2F4DAF6F D48F0000 01000000  ..../M¯oÔ.......
+              0019FCF0: 30804077 504BAF6F 00000000 00000000  0.@wPK¯o........
+              0019FD00: 77CBAE6F D48F0000 78000000 00000000  wË®oÔ...x.......
+              0019FD10: 9E053B00 CA090C00 00020000 00000000  ..;.Ê...........
+              0019FD20: D700A000 9E439D1A 17020000 E7000000  ×. ..C......ç...
+              0019FD30: 4D51AF6F E8AF4100 0000AB6F B4FE1900  MQ¯oè¯A...«o´þ..
+              0019FD40: F4AF4100 10000000 081C7A05 0000A00F  ô¯A.......z... .
+              0019FD50: B4FE1900 17281E77 00000000 FBFEB56F  ´þ...(.w....ûþµo
+              0019FD60: F4AF4100 370DAC6F C04DA66F 454E4700  ô¯A.7.¬oÀM¦oENG.
+              0019FD70: AEBEAF6F 04B24100 04DC4000 1C041D00  ®¾¯o.²A..Ü@.....
+              0019FD80: 54363502 FC020000 74BA9E6F 2823BA6F  T65.ü...tº.o(#ºo
+              0019FD90: 00004000 00000000 04000000 10B44100  ..@..........´A.
+              0019FDA0: E8AF4100 41B34100 EAB14100 F2AF4100  è¯A.A³A.ê±A.ò¯A.
+              0019FDB0: E9B14100 E8B34100 F8AF4100 E8B14100  é±A.è³A.ø¯A.è±A.
+              0019FDC0: F9B14100 ECAF4100 F1AF4100 EEAF4100  ù±A.ì¯A.ñ¯A.î¯A.
+              0019FDD0: F5B14100 00000000 00000000 00000000  õ±A.............
+              0019FDE0: 00000000 00000000 00000000 00000000  ................
+              0019FDF0: 00000000 00000000 00000000 00000000  ................
+              0019FE00: 00000000 00000000 00000000 00000000  ................
+              0019FE10: 00000000 00000000 00000000 00000000  ................
+              0019FE20: 00000000 00000000 00000000 00000000  ................
+              0019FE30: 00000000 00000000 00000000 00000000  ................
+              0019FE40: 00000000 00000000 00000000 4D4F4453  ............MODS
+              0019FE50: 5C437573 746F6D47 616D655C 64656275  \CustomGame\debu
+              0019FE60: 676C6F67 00214100 E49F4100 60FF1900  glog.!A.ä.A.`ÿ..
+              0019FE70: E2172C73 00000000 B4692D73 EEAC2E73  â.,s....´i-sî¬.s
+              0019FE80: F0020000 E49F4100 A8FE1900 36124000  ð...ä.A.¨þ..6.@.
+              0019FE90: F0020000 1C041D00 54363502 FC020000  ð.......T65.ü...
+              0019FEA0: 02000000 F0020000 ECFE1900 68164100  ....ð...ìþ..h.A.
+              0019FEB0: 8E214100 ECFE1900 70164100 403C4000  .!A.ìþ..p.A.@<@.
+              0019FEC0: 403C4000 00004000 00001D00 01000400  @<@...@.........
+              0019FED0: 00000000 00000000 00000000 00000000  ................
+              0019FEE0: 0C000000 CCFE1900 00000000 70FF1900  ....Ìþ......pÿ..
+              0019FEF0: 073D4000 00004000 00000000 50368000  .=@...@.....P6..
+              0019FF00: 01000000 403C4000 403C4000 00302800  ....@<@.@<@..0(.
+              0019FF10: 44000000 58898200 B8628700 90598300  D...X...¸b...Y..
+              0019FF20: 00000000 00000000 00000000 00000000  ................
+              0019FF30: 00000000 00000000 00000000 010C0000  ................
+              0019FF40: 01000000 00000000 00000000 01000100  ................
+              0019FF50: 00000000 00000000 04FF1900 00000000  .........ÿ......
+              0019FF60: CCFF1900 28364000 884E4100 00000000  Ìÿ..(6@..NA.....
+              0019FF70: 80FF1900 09FE1D77 00302800 F0FD1D77  .ÿ...þ.w.0(.ðý.w
+              0019FF80: DCFF1900 2D665F77 00302800 19A2A68D  Üÿ..-f_w.0(..¢¦.
+              0019FF90: 00000000 00000000 00302800 00000000  .........0(.....
+              0019FFA0: 00000000 00000000 00000000 00000000  ................
+              0019FFB0: 00000000 00000000 00000000 00000000  ................
+              0019FFC0: 00000000 8CFF1900 00000000 E4FF1900  .....ÿ......äÿ..
+              0019FFD0: D0866077 85CFD6FA 00000000 ECFF1900  Ð.`w.ÏÖú....ìÿ..
+              0019FFE0: FD655F77 FFFFFFFF 8A516177 00000000  ýe_wÿÿÿÿ.Qaw....
+              0019FFF0: 00000000 403C4000 00302800 00000000  ....@<@..0(.....
+              001A0000: 41637478 20000000 01000000 18330000  Actx ........3..
+              001A0010: DC000000 00000000 20000000 00000000  Ü....... .......
+              001A0020: 14000000 01000000 07000000 34000000  ............4...
+              001A0030: 7C010000 01000000 00000000 00000000  |...............
+              001A0040: 00000000 00000000 00000000 02000000  ................
+              001A0050: 4EEF261A 98020000 44000000 E0020000  Nï&.....D...à...
+              001A0060: 5C020000 00000000 BA7132F3 3C050000  \.......ºq2ó<...
+              001A0070: 4A000000 88050000 42030000 00000000  J.......B.......
+              001A0080: 5B49592D CC080000 32000000 00090000  [IY-Ì...2.......
+              001A0090: FA020000 00000000 CDEACE32 FC0B0000  ú.......ÍêÎ2ü...
+              001A00A0: 42000000 400C0000 30030000 00000000  B...@...0.......
+              001A00B0: C85F5038 700F0000 5E000000 D00F0000  È_P8p...^...Ð...
+              001A00C0: 62030000 00000000 440528B1 34130000  b.......D.(±4...
+              001A00D0: 56000000 8C130000 92030000 10000000  V...............
+              001A00E0: 09000000 EC000000 02000000 01000000  ....ì...........
+              001A00F0: 7C010000 DC150000 01000000 02000000  |...Ü...........
+              001A0100: 58170000 A0070000 01000000 03000000  X... ...........
+              001A0110: F81E0000 8C0E0000 01000000 04000000  ø...............
+              001A0120: 842D0000 14030000 02000000 05000000  .-..............
+              001A0130: 98300000 98000000 02000000 06000000  .0..............
+              001A0140: 30310000 CC000000 02000000 07000000  01..Ì...........
+              001A0150: FC310000 F0000000 01000000 09000000  ü1..ð...........
+              001A0160: EC320000 28000000 02000000 0B000000  ì2..(...........
+              001A0170: 14330000 04000000 01000000 53734864  .3..........SsHd
+              001A0180: 2C000000 01000000 01000000 01000000  ,...............
+              001A0190: 06000000 8C000000 01000000 A4150000  ............¤...
+              001A01A0: 2C000000 5E000000 5E000000 00000000  ,...^...^.......
+              001A01B0: 00000000 00000000 00000000 00000000  ................
+              001A01C0: 00000000 00000000 00000000 00000000  ................
+              001A01D0: 02000000 24000000 38000000 00000000  ....$...8.......
+              001A01E0: 43003A00 5C005700 69006E00 64006F00  C.:.\.W.i.n.d.o.
+              001A01F0: 77007300 5C005700 69006E00 53007800  w.s.\.W.i.n.S.x.
+              001A0200: 73005C00 00000000 4EEF261A 1C010000  s.\.....Nï&.....
+              001A0210: 44000000 64010000 5C020000 01000000  D...d...\.......
+              001A0220: BA7132F3 C0030000 4A000000 0C040000  ºq2óÀ...J.......
+              001A0230: 42030000 02000000 5B49592D 50070000  B.......[IY-P...
+              001A0240: 32000000 84070000 FA020000 03000000  2.......ú.......
+              001A0250: CDEACE32 800A0000 42000000 C40A0000  ÍêÎ2....B...Ä...
+              001A0260: 30030000 04000000 C85F5038 F40D0000  0.......È_P8ô...
+              001A0270: 5E000000 540E0000 62030000 05000000  ^...T...b.......
+              001A0280: 440528B1 B8110000 56000000 10120000  D.(±¸...V.......
+              001A0290: 92030000 06000000 4D006900 63007200  ........M.i.c.r.
+              001A02A0: 6F007300 6F006600 74002E00 57006900  o.s.o.f.t...W.i.
+              001A02B0: 6E006400 6F007700 73002E00 53007900  n.d.o.w.s...S.y.
+              001A02C0: 73007400 65006D00 43006F00 6D007000  s.t.e.m.C.o.m.p.
+              001A02D0: 61007400 69006200 6C006500 00000000  a.t.i.b.l.e.....
+              001A02E0: 6C000000 01000000 0A010000 D0010000  l...........Ð...
+              001A02F0: 02000000 2C000000 DA020000 16DE420B  ....,...Ú....ÞB.
+              001A0300: 17A9D401 01000000 00000000 00000000  .©Ô.............
+              001A0310: 00000000 00000000 00000000 00000000  ................
+              001A0320: 01000000 00000000 00000000 00000000  ................
+              001A0330: B6000000 08030000 00000000 00000000  ¶...............
+              001A0340: 00000000 00000000 00000000 4D006900  ............M.i.
+              001A0350: 63007200 6F007300 6F006600 74002E00  c.r.o.s.o.f.t...
+              001A0360: 57006900 6E006400 6F007700 73002E00  W.i.n.d.o.w.s...
+              001A0370: 53007900 73007400 65006D00 43006F00  S.y.s.t.e.m.C.o.
+              001A0380: 6D007000 61007400 69006200 6C006500  m.p.a.t.i.b.l.e.
+              001A0390: 2C007000 72006F00 63006500 73007300  ,.p.r.o.c.e.s.s.
+              001A03A0: 6F007200 41007200 63006800 69007400  o.r.A.r.c.h.i.t.
+              001A03B0: 65006300 74007500 72006500 3D002200  e.c.t.u.r.e.=.".
+              001A03C0: 78003800 36002200 2C007000 75006200  x.8.6.".,.p.u.b.
+              001A03D0: 6C006900 63004B00 65007900 54006F00  l.i.c.K.e.y.T.o.
+              001A03E0: 6B006500 6E003D00 22003600 35003900  k.e.n.=.".6.5.9.
+              001A03F0: 35006200 36003400 31003400 34006300  5.b.6.4.1.4.4.c.
+              001A0400: 63006600 31006400 66002200 2C007400  c.f.1.d.f.".,.t.
+              001A0410: 79007000 65003D00 22007700 69006E00  y.p.e.=.".w.i.n.
+              001A0420: 33003200 22002C00 76006500 72007300  3.2.".,.v.e.r.s.
+              001A0430: 69006F00 6E003D00 22003600 2E003000  i.o.n.=.".6...0.
+              001A0440: 2E003100 37003700 36003300 2E003200  ..1.7.7.6.3...2.
+              001A0450: 35003300 22005300 79007300 74006500  5.3.".S.y.s.t.e.
+              001A0460: 6D002000 44006500 66006100 75006C00  m. .D.e.f.a.u.l.
+              001A0470: 74002000 43006F00 6E007400 65007800  t. .C.o.n.t.e.x.
+              001A0480: 74000000 78003800 36005F00 6D006900  t...x.8.6._.m.i.
+              001A0490: 63007200 6F007300 6F006600 74002E00  c.r.o.s.o.f.t...
+              001A04A0: 77006900 6E006400 6F007700 73002E00  w.i.n.d.o.w.s...
+              001A04B0: 73007900 73007400 65006D00 63006F00  s.y.s.t.e.m.c.o.
+              001A04C0: 6D007000 61007400 69006200 6C006500  m.p.a.t.i.b.l.e.
+              001A04D0: 5F003600 35003900 35006200 36003400  _.6.5.9.5.b.6.4.
+              001A04E0: 31003400 34006300 63006600 31006400  1.4.4.c.c.f.1.d.
+              001A04F0: 66005F00 36002E00 30002E00 31003700  f._.6...0...1.7.
+              001A0500: 37003600 33002E00 32003500 33005F00  7.6.3...2.5.3._.
+              001A0510: 6E006F00 6E006500 5F003500 34006600  n.o.n.e._.5.4.f.
+              001A0520: 62006200 32003400 38006400 38003300  b.b.2.4.8.d.8.3.
+              001A0530: 35003100 35006400 62000000 4D006900  5.1.5.d.b...M.i.
+              001A0540: 63007200 6F007300 6F006600 74002E00  c.r.o.s.o.f.t...
+              001A0550: 57006900 6E006400 6F007700 73002E00  W.i.n.d.o.w.s...
+              001A0560: 49007300 6F006C00 61007400 69006F00  I.s.o.l.a.t.i.o.
+              001A0570: 6E004100 75007400 6F006D00 61007400  n.A.u.t.o.m.a.t.
+              001A0580: 69006F00 6E000000 6C000000 00000000  i.o.n...l.......
+              001A0590: 10010000 78040000 02000000 06010000  ....x...........
+              001A05A0: 88050000 AF63440B 17A9D401 01000000  ....¯cD..©Ô.....
+              001A05B0: 00000000 00000000 00000000 00000000  ................
+              001A05C0: 00000000 00000000 01000000 00000000  ................
+              001A05D0: 00000000 00000000 BC000000 90060000  ........¼.......
+              001A05E0: 00000000 00000000 00000000 00000000  ................
+              001A05F0: 00000000 4D006900 63007200 6F007300  ....M.i.c.r.o.s.
+              001A0600: 6F006600 74002E00 57006900 6E006400  o.f.t...W.i.n.d.
+              001A0610: 6F007700 73002E00 49007300 6F006C00  o.w.s...I.s.o.l.
+              001A0620: 61007400 69006F00 6E004100 75007400  a.t.i.o.n.A.u.t.
+              001A0630: 6F006D00 61007400 69006F00 6E002C00  o.m.a.t.i.o.n.,.
+              001A0640: 70007200 6F006300 65007300 73006F00  p.r.o.c.e.s.s.o.
+              001A0650: 72004100 72006300 68006900 74006500  r.A.r.c.h.i.t.e.
+              001A0660: 63007400 75007200 65003D00 22007800  c.t.u.r.e.=.".x.
+              001A0670: 38003600 22002C00 70007500 62006C00  8.6.".,.p.u.b.l.
+              001A0680: 69006300 4B006500 79005400 6F006B00  i.c.K.e.y.T.o.k.
+              001A0690: 65006E00 3D002200 36003500 39003500  e.n.=.".6.5.9.5.
+              001A06A0: 62003600 34003100 34003400 63006300  b.6.4.1.4.4.c.c.
+              001A06B0: 66003100 64006600 22002C00 74007900  f.1.d.f.".,.t.y.
+              001A06C0: 70006500 3D002200 77006900 6E003300  p.e.=.".w.i.n.3.
+              001A06D0: 32002200 2C007600 65007200 73006900  2.".,.v.e.r.s.i.
+              001A06E0: 6F006E00 3D002200 31002E00 30002E00  o.n.=.".1...0...
+              001A06F0: 31003700 37003600 33002E00 32003500  1.7.7.6.3...2.5.
+              001A0700: 33002200 43003A00 5C005700 69006E00  3.".C.:.\.W.i.n.
+              001A0710: 64006F00 77007300 5C005700 69006E00  d.o.w.s.\.W.i.n.
+              001A0720: 53007800 53005C00 6D006100 6E006900  S.x.S.\.m.a.n.i.
+              001A0730: 66006500 73007400 73005C00 78003800  f.e.s.t.s.\.x.8.
+              001A0740: 36005F00 6D006900 63007200 6F007300  6._.m.i.c.r.o.s.
+              001A0750: 6F006600 74002E00 77006900 6E006400  o.f.t...w.i.n.d.
+              001A0760: 6F007700 73002E00 69007300 6F006C00  o.w.s...i.s.o.l.
+              001A0770: 61007400 69006F00 6E006100 75007400  a.t.i.o.n.a.u.t.
+              001A0780: 6F006D00 61007400 69006F00 6E005F00  o.m.a.t.i.o.n._.
+              001A0790: 36003500 39003500 62003600 34003100  6.5.9.5.b.6.4.1.
+              001A07A0: 34003400 63006300 66003100 64006600  4.4.c.c.f.1.d.f.
+              001A07B0: 5F003100 2E003000 2E003100 37003700  _.1...0...1.7.7.
+              001A07C0: 36003300 2E003200 35003300 5F006E00  6.3...2.5.3._.n.
+              001A07D0: 6F006E00 65005F00 66006500 65006200  o.n.e._.f.e.e.b.
+              001A07E0: 31006500 65003500 34003900 65003700  1.e.e.5.4.9.e.7.
+              001A07F0: 38003300 66006300 2E006D00 61006E00  8.3.f.c...m.a.n.
+              001A0800: 69006600 65007300 74000000 78003800  i.f.e.s.t...x.8.
+              001A0810: 36005F00 6D006900 63007200 6F007300  6._.m.i.c.r.o.s.
+              001A0820: 6F006600 74002E00 77006900 6E006400  o.f.t...w.i.n.d.
+              001A0830: 6F007700 73002E00 69007300 6F006C00  o.w.s...i.s.o.l.
+              001A0840: 61007400 69006F00 6E006100 75007400  a.t.i.o.n.a.u.t.
+              001A0850: 6F006D00 61007400 69006F00 6E005F00  o.m.a.t.i.o.n._.
+              001A0860: 36003500 39003500 62003600 34003100  6.5.9.5.b.6.4.1.
+              001A0870: 34003400 63006300 66003100 64006600  4.4.c.c.f.1.d.f.
+              001A0880: 5F003100 2E003000 2E003100 37003700  _.1...0...1.7.7.
+              001A0890: 36003300 2E003200 35003300 5F006E00  6.3...2.5.3._.n.
+              001A08A0: 6F006E00 65005F00 66006500 65006200  o.n.e._.f.e.e.b.
+              001A08B0: 31006500 65003500 34003900 65003700  1.e.e.5.4.9.e.7.
+              001A08C0: 38003300 66006300 00000000 4D006900  8.3.f.c.....M.i.
+              001A08D0: 63007200 6F007300 6F006600 74002E00  c.r.o.s.o.f.t...
+              001A08E0: 57006900 6E006400 6F007700 73002E00  W.i.n.d.o.w.s...
+              001A08F0: 47006400 69005000 6C007500 73000000  G.d.i.P.l.u.s...
+              001A0900: 6C000000 00000000 F8000000 F0070000  l.......ø...ð...
+              001A0910: 02000000 EE000000 E8080000 486F6A0B  ....î...è...Hoj.
+              001A0920: 17A9D401 01000000 00000000 00000000  .©Ô.............
+              001A0930: 00000000 00000000 00000000 00000000  ................
+              001A0940: 01000000 00000000 00000000 00000000  ................
+              001A0950: A4000000 D8090000 00000000 00000000  ¤...Ø...........
+              001A0960: 00000000 00000000 00000000 4D006900  ............M.i.
+              001A0970: 63007200 6F007300 6F006600 74002E00  c.r.o.s.o.f.t...
+              001A0980: 57006900 6E006400 6F007700 73002E00  W.i.n.d.o.w.s...
+              001A0990: 47006400 69005000 6C007500 73002C00  G.d.i.P.l.u.s.,.
+              001A09A0: 70007200 6F006300 65007300 73006F00  p.r.o.c.e.s.s.o.
+              001A09B0: 72004100 72006300 68006900 74006500  r.A.r.c.h.i.t.e.
+              001A09C0: 63007400 75007200 65003D00 22007800  c.t.u.r.e.=.".x.
+              001A09D0: 38003600 22002C00 70007500 62006C00  8.6.".,.p.u.b.l.
+              001A09E0: 69006300 4B006500 79005400 6F006B00  i.c.K.e.y.T.o.k.
+              001A09F0: 65006E00 3D002200 36003500 39003500  e.n.=.".6.5.9.5.
+              001A0A00: 62003600 34003100 34003400 63006300  b.6.4.1.4.4.c.c.
+              001A0A10: 66003100 64006600 22002C00 74007900  f.1.d.f.".,.t.y.
+              001A0A20: 70006500 3D002200 77006900 6E003300  p.e.=.".w.i.n.3.
+              001A0A30: 32002200 2C007600 65007200 73006900  2.".,.v.e.r.s.i.
+              001A0A40: 6F006E00 3D002200 31002E00 31002E00  o.n.=.".1...1...
+              001A0A50: 31003700 37003600 33002E00 32003500  1.7.7.6.3...2.5.
+              001A0A60: 33002200 43003A00 5C005700 69006E00  3.".C.:.\.W.i.n.
+              001A0A70: 64006F00 77007300 5C005700 69006E00  d.o.w.s.\.W.i.n.
+              001A0A80: 53007800 53005C00 6D006100 6E006900  S.x.S.\.m.a.n.i.
+              001A0A90: 66006500 73007400 73005C00 78003800  f.e.s.t.s.\.x.8.
+              001A0AA0: 36005F00 6D006900 63007200 6F007300  6._.m.i.c.r.o.s.
+              001A0AB0: 6F006600 74002E00 77006900 6E006400  o.f.t...w.i.n.d.
+              001A0AC0: 6F007700 73002E00 67006400 69007000  o.w.s...g.d.i.p.
+              001A0AD0: 6C007500 73005F00 36003500 39003500  l.u.s._.6.5.9.5.
+              001A0AE0: 62003600 34003100 34003400 63006300  b.6.4.1.4.4.c.c.
+05:26:14.585  Code bytes:
+05:26:14.585  16A8A155: 00000000 00000000 00000000 00000000  ................
+              16A8A165: 00000000 00000000 00000000 00000000  ................
+---finished error callback---
+---------------------------------------------------------------
+DESKTOP-UHBNIJN Realm startup at 2019-01-15 05:30:47.987
+---------------------------------------------------------------
+05:30:47.987  ------------------------------------------------------
+05:30:47.987  2019-01-15 05:30:47
+05:30:47.987  Diablo II running under Windows XP (Version 5.010)
+05:30:47.987  Vendor:  Intel
+05:30:47.987  Version: Pentium III (no brand) (Type 0, Family 6, Model E, Stepping 9, Brand 0)
+05:30:47.990  Speed: Approx. 3407 MHz
+05:30:47.990  Total Physical Memory: 1024.00MB
+05:30:47.990  Application Path: C:\Diablo II
+05:30:47.996  Local IP: 192.168.1.63
+05:30:47.996  Computer name: DESKTOP-UHBNIJN
+05:30:47.996  ------------------------------------------------------
+05:30:47.996  
+05:30:47.997  imagehlp.dll loaded for better stack crawls.
+05:30:48.617  BaseMod Installing Patches
+05:30:48.618  BaseMod.dll Loaded Successfully
+05:30:49.841  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+05:30:49.848  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+05:31:06.574  Error opening file: DATA\GLOBAL\UI\Panel\LifeOrb.dc6
+05:31:06.574  Error opening file: DATA\GLOBAL\UI\Panel\LifeOrbPoi.dc6
+05:31:06.574  Error opening file: DATA\GLOBAL\UI\Panel\AmaOrb.dc6
+05:31:06.574  Error opening file: DATA\GLOBAL\UI\Panel\SorOrb.dc6
+05:31:06.574  Error opening file: DATA\GLOBAL\UI\Panel\NecOrb.dc6
+05:31:06.574  Error opening file: DATA\GLOBAL\UI\Panel\PalOrb.dc6
+05:31:06.574  Error opening file: DATA\GLOBAL\UI\Panel\BarOrb.dc6
+05:31:06.574  Error opening file: DATA\GLOBAL\UI\Panel\DruOrb.dc6
+05:31:06.574  Error opening file: DATA\GLOBAL\UI\Panel\AssOrb.dc6
+05:31:28.351  BaseMod.dll UnLoaded
+---------------------------------------------------------------
+DESKTOP-UHBNIJN Realm startup at 2019-01-15 05:33:19.905
+---------------------------------------------------------------
+05:33:19.905  ------------------------------------------------------
+05:33:19.905  2019-01-15 05:33:19
+05:33:19.905  Diablo II running under Windows XP (Version 5.010)
+05:33:19.905  Vendor:  Intel
+05:33:19.905  Version: Pentium III (no brand) (Type 0, Family 6, Model E, Stepping 9, Brand 0)
+05:33:19.912  Speed: Approx. 3407 MHz
+05:33:19.912  Total Physical Memory: 1024.00MB
+05:33:19.912  Application Path: C:\Diablo II
+05:33:19.919  Local IP: 192.168.1.63
+05:33:19.919  Computer name: DESKTOP-UHBNIJN
+05:33:19.919  ------------------------------------------------------
+05:33:19.919  
+05:33:19.919  imagehlp.dll loaded for better stack crawls.
+05:33:20.506  BaseMod Installing Patches
+05:33:20.507  BaseMod.dll Loaded Successfully
+05:33:21.743  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+05:33:21.750  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+---------------------------------------------------------------
+DESKTOP-UHBNIJN Realm startup at 2019-01-15 05:34:30.167
+---------------------------------------------------------------
+05:34:30.167  ------------------------------------------------------
+05:34:30.167  2019-01-15 05:34:30
+05:34:30.167  Diablo II running under Windows XP (Version 5.010)
+05:34:30.167  Vendor:  Intel
+05:34:30.167  Version: Pentium III (no brand) (Type 0, Family 6, Model E, Stepping 9, Brand 0)
+05:34:30.178  Speed: Approx. 3408 MHz
+05:34:30.178  Total Physical Memory: 1024.00MB
+05:34:30.178  Application Path: C:\Diablo II
+05:34:30.184  Local IP: 192.168.1.63
+05:34:30.184  Computer name: DESKTOP-UHBNIJN
+05:34:30.184  ------------------------------------------------------
+05:34:30.184  
+05:34:30.185  imagehlp.dll loaded for better stack crawls.
+05:34:30.785  BaseMod Installing Patches
+05:34:30.786  BaseMod.dll Loaded Successfully
+05:34:31.982  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+05:34:31.988  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+---------------------------------------------------------------
+DESKTOP-UHBNIJN Realm startup at 2019-01-15 05:37:45.093
+---------------------------------------------------------------
+05:37:45.093  ------------------------------------------------------
+05:37:45.093  2019-01-15 05:37:45
+05:37:45.093  Diablo II running under Windows XP (Version 5.010)
+05:37:45.093  Vendor:  Intel
+05:37:45.093  Version: Pentium III (no brand) (Type 0, Family 6, Model E, Stepping 9, Brand 0)
+05:37:45.098  Speed: Approx. 3407 MHz
+05:37:45.098  Total Physical Memory: 1024.00MB
+05:37:45.098  Application Path: C:\Diablo II
+05:37:45.104  Local IP: 192.168.1.63
+05:37:45.104  Computer name: DESKTOP-UHBNIJN
+05:37:45.104  ------------------------------------------------------
+05:37:45.104  
+05:37:45.105  imagehlp.dll loaded for better stack crawls.
+05:37:45.722  BaseMod Installing Patches
+05:37:45.722  BaseMod.dll Loaded Successfully
+05:37:46.939  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+05:37:46.946  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+05:38:13.189  BaseMod.dll UnLoaded
+---------------------------------------------------------------
+DESKTOP-UHBNIJN Realm startup at 2019-01-15 05:39:26.213
+---------------------------------------------------------------
+05:39:26.213  ------------------------------------------------------
+05:39:26.213  2019-01-15 05:39:26
+05:39:26.213  Diablo II running under Windows XP (Version 5.010)
+05:39:26.213  Vendor:  Intel
+05:39:26.213  Version: Pentium III (no brand) (Type 0, Family 6, Model E, Stepping 9, Brand 0)
+05:39:26.224  Speed: Approx. 3408 MHz
+05:39:26.224  Total Physical Memory: 1024.00MB
+05:39:26.224  Application Path: C:\Diablo II
+05:39:26.230  Local IP: 192.168.1.63
+05:39:26.230  Computer name: DESKTOP-UHBNIJN
+05:39:26.230  ------------------------------------------------------
+05:39:26.230  
+05:39:26.231  imagehlp.dll loaded for better stack crawls.
+05:39:26.832  BaseMod Installing Patches
+05:39:26.832  BaseMod.dll Loaded Successfully
+05:39:28.064  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+05:39:28.071  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
