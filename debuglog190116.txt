@@ -1,0 +1,21 @@
+---------------------------------------------------------------
+DESKTOP-UHBNIJN Realm startup at 2019-01-16 00:00:01.112
+---------------------------------------------------------------
+00:00:01.112  ------------------------------------------------------
+00:00:01.112  2019-01-16 00:00:01
+00:00:01.112  Diablo II running under Windows XP (Version 5.010)
+00:00:01.112  Vendor:  Intel
+00:00:01.112  Version: Pentium III (no brand) (Type 0, Family 6, Model E, Stepping 9, Brand 0)
+00:00:01.115  Speed: Approx. 3407 MHz
+00:00:01.115  Total Physical Memory: 1024.00MB
+00:00:01.115  Application Path: C:\Diablo II
+00:00:01.120  Local IP: 192.168.1.63
+00:00:01.120  Computer name: DESKTOP-UHBNIJN
+00:00:01.120  ------------------------------------------------------
+00:00:01.120  
+00:00:01.121  imagehlp.dll loaded for better stack crawls.
+00:00:01.753  BaseMod Installing Patches
+00:00:01.754  BaseMod.dll Loaded Successfully
+00:00:03.070  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+00:00:03.075  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+00:07:03.324  BaseMod.dll UnLoaded
